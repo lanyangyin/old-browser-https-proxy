@@ -6,13 +6,12 @@
 - 因此使用[GPL v3](LICENSE)协议
 
 ## 安装
-```bash
-git clone https://github.com/lanyangyin/old-browser-https-proxy.git
-cd old-browser-https-proxy
-pip install -r requirements.txt
-```
+### Clone the repository: 
+- ```git clone https://github.com/lanyangyin/old-browser-https-proxy.git```
+### Navigate to the project directory: 
+- ```cd old-browser-https-proxy```
+### Install dependencies: 
+- ```pip install -r requirements.txt```
 
 ## 用法
-```bash
-python universal_proxy_with_favorites.py
-```
+```python universal_proxy_with_favorites.py```
